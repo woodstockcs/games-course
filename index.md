@@ -5,11 +5,12 @@ layout: home
 
 yay![^1]
 
+one more
+
 And you will be able to deploy your local build to a different platform than GitHub Pages.
 
 More specifically, the created site:
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
 - uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
 
 ----
